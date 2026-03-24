@@ -63,13 +63,6 @@ function App() {
       </section>
 
       <div className="ticks"></div>
-
-      <section id="next-steps">
-        <div id="docs">
-          <h2>React 19 + Vite</h2>
-          <p>Powered by modern Node 20+ CI/CD</p>
-        </div>
-      </section>
     </>
   )
 }
